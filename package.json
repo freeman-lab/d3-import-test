@@ -1,7 +1,7 @@
 {
   "name": "d3-import-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing new d3 imports",
   "main": "index.js",
   "scripts": {
     "dev": "next -p 3000",
@@ -9,8 +9,8 @@
     "start": "next start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "freeman-lab",
+  "license": "MIT",
   "dependencies": {
     "d3-format": "^3.0.0",
     "next": "^10.1.3",
